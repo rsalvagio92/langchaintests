@@ -162,6 +162,7 @@ def main():
                 func=lambda x: list_files(),
                 description="Lists all files in the repository.",
             )
+            
         ]
         
         # Initialize agent
